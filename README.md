@@ -5,13 +5,19 @@ Here goes a short project description
 ## Features
 A list of the baords's features and functions, what it needs as input to function, etc. 
 
-A bloc diagram is always useful to have here 
+A bloc diagram is always useful to have here
+
+
 <img src ="/Documentation/architecture.png" width="400">
 
 ## Pinouts
 
 Here you can drop connectors and microcontroller pinouts. Anything that could be
 useful when conencting or programming the board
+
+|Signal|Pin|Notes|
+|:---:|:----:|:---:|
+|Button|P0.12|active low|
 
 > note: [WireViz](https://github.com/wireviz/WireViz) is a good tool to document
 connectors and wire harnesses
