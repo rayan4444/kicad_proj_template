@@ -8,7 +8,7 @@ A list of the baords's features and functions, what it needs as input to functio
 A bloc diagram is always useful to have here
 
 
-<img src ="/Documentation/architecture.png" width="400">
+<img src ="/Documentation/diagram.png" width="400">
 
 ## Pinouts
 
